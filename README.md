@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Faisal and welcome my Github profile
+# Hi there 👋 I'm Faisal and welcome to my profile
 
 🎓 Computer Science for Cyber Security student at the University of Bradford  
 🔐 Interested in Software Engineering, Cyber Security & Secure APIs  
