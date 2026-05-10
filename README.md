@@ -31,7 +31,13 @@
 • Apache Maven • Ant • JUnit • Google Colab • Jupyter Notebook • Cisco Packet Tracer • Lucidchart 
 
 ---
+## 📐 Design & Methodologies
 
+• Object Oriented Progamming (OOP) 
+• Object Oriented Analysis (OOA) 
+• Unified Modelling Language (UML) 
+• Flowcharts 
+• Software Design
 
 
 
