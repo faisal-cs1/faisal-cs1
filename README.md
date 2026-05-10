@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋 I'm Faisal and welcome my Github profile
 
-<!--
-**faisal-cs1/faisal-cs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science for Cyber Security student at the University of Bradford  
+🔐 Interested in Software Engineering, Cyber Security & Secure APIs  
+🚀 Seeking a Software Engineering or Cyber Security Placement for 2026
 
-Here are some ideas to get you started:
+---
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Java, Python & Full-Stack Development
+- 🔐 Passionate about secure systems & APIs
+- 🧠 Enjoy problem solving, debugging & software design
+- 📊 Experience building data visualisation tools & AI projects
+- 🤝 Strong teamwork and client-facing experience
+- 📚 Currently learning TypeScript & LaTeX
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,html,css,mysql,bash,latex,typescript" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,github,linux,windows,apple" />
+</p>
+
+• Apache Maven • Ant • JUnit • Google Colab • Jupyter Notebook • Cisco Packet Tracer • Lucidchart 
+
+---
+
+
+
+
+---
