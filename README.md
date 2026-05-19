@@ -70,4 +70,6 @@ Developed with a focus on user input validation, problem solving and structured 
 
 **Tech:** Python
 
+**Link:** https://github.com/faisal-cs1/Python--BMR-BMI-Calculator
+
 ⭐ Thank you for visiting my profile!
