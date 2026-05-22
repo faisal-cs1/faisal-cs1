@@ -58,7 +58,7 @@
 Designed and contributed to the development of the BD25 System as part of a software engineering project. Contributions included UML use case design, SRS documentation, Guest/Participant class implementation, system architecture and functionality planning, login and CSV-based storage decisions, and collaborative software analysis, requirements gathering and design reviews.
 
 
-**Link:** [https](https://github.com/faisal-cs1/Java-Crowd-Engagement-System)
+**Link:** https://github.com/faisal-cs1/Java-Crowd-Engagement-System
 
 ---
 
