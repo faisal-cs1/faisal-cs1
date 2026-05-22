@@ -54,11 +54,18 @@
 
 ## 📂 Featured Projects
 
+### 🏙️ Java based Crowd Engagent system for the City of Culture 
+Designed and contributed to the development of the BD25 System as part of a software engineering project. Contributions included UML use case design, SRS documentation, Guest/Participant class implementation, system architecture and functionality planning, login and CSV-based storage decisions, and collaborative software analysis, requirements gathering and design reviews.
+
+
+**Link:** https
+
+---
+
 ### 🛒 Dynamic E-Commerce Website
 Full-stack e-commerce website with authentication, shopping basket functionality and admin dashboard features.  
 Contributed to database design, front-end development and back-end integration.
 
-**Tech:** PHP, SQL, JavaScript, HTML, CSS
 
 **Link:** https://github.com/faisal-cs1/Dynamic-E-Commerce-Website
 
@@ -67,8 +74,6 @@ Contributed to database design, front-end development and back-end integration.
 ### ⚕️ Python BMR & BMI Calculator
 Python application for calculating Body Mass Index (BMI) and Basal Metabolic Rate (BMR).  
 Developed with a focus on user input validation, problem solving and structured software design documentation.
-
-**Tech:** Python
 
 **Link:** https://github.com/faisal-cs1/Python--BMR-BMI-Calculator
 
